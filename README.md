@@ -10,7 +10,7 @@ INSTRUCTIONS:
 
 ESELEC - GENERATOR MONITORING AND DIAGNOSTICS
 
-"This report discusses the significant challenges posed by short circuits within the rotor winding of synchronous generators in the electrical sector. Such short circuits are a major concern for organizations like Eselec, an experienced electrical engineering and consultancy firm, and are frequently caused by the deterioration of non-conductive materials brought on by ageing and various thermal and mechanical stress conditions. These flaws result in an increase in excitation current, mechanical vibrations, rotor damage, and magnetic field imbalance, all of which can result in significant operational interruptions such as generator shutdowns, production losses, and the requirement for immediate maintenance.
+This report discusses the significant challenges posed by short circuits within the rotor winding of synchronous generators in the electrical sector. Such short circuits are a major concern for organizations like Eselec, an experienced electrical engineering and consultancy firm, and are frequently caused by the deterioration of non-conductive materials brought on by ageing and various thermal and mechanical stress conditions. These flaws result in an increase in excitation current, mechanical vibrations, rotor damage, and magnetic field imbalance, all of which can result in significant operational interruptions such as generator shutdowns, production losses, and the requirement for immediate maintenance.
 
 Commercial monitoring systems currently available are frequently pricey and primarily intended for high-power generating units, making them impractical for smaller generators that are frequently used across a variety of industrial sectors. The report emphasizes the demand for a scalable, affordable method of rotor winding monitoring and generator output maximization.
 
@@ -20,4 +20,4 @@ Then, a mechanism for data collection will be set up to compile crucial operatio
 
 The report ends by highlighting the successful use of a combination of supervised and unsupervised machine learning models for the dataset TG-A-Ejemplo1 using strategy 04: Isolation Forest and Long Short-Term Memory (LSTM). This tactic aims to foresee the next maintenance the machine will require in order to avoid unplanned shutdowns and cut costs.
 
-In conclusion, we emphasize the importance of these aspects in a machine learning project and show that the success of such a predictive maintenance system heavily depends on the quality and clarity of the input data, clear feature definitions, and rigorous data preprocessing."
+In conclusion, we emphasize the importance of these aspects in a machine learning project and show that the success of such a predictive maintenance system heavily depends on the quality and clarity of the input data, clear feature definitions, and rigorous data preprocessing.
