@@ -10,38 +10,14 @@ INSTRUCTIONS:
 
 ESELEC - GENERATOR MONITORING AND DIAGNOSTICS
 
-This report discusses the significant challenges posed by short-circuits within the rotor
-winding of synchronous generators in the electrical sector.
-Such short-circuits are a major concern for organiza=ons like Eselec, a experienced electrical
+"This report discusses the significant challenges posed by short circuits within the rotor winding of synchronous generators in the electrical sector. Such short circuits are a major concern for organizations like Eselec, an experienced electrical engineering and consultancy firm, and are frequently caused by the deterioration of non-conductive materials brought on by ageing and various thermal and mechanical stress conditions. These flaws result in an increase in excitation current, mechanical vibrations, rotor damage, and magnetic field imbalance, all of which can result in significant operational interruptions such as generator shutdowns, production losses, and the requirement for immediate maintenance.
 
-engineering and consultancy firm.and are frequently caused by the deteriora=on of non-
-conductor materials brought on by aging and various thermal and mechanical stress
+Commercial monitoring systems currently available are frequently pricey and primarily intended for high-power generating units, making them impractical for smaller generators that are frequently used across a variety of industrial sectors. The report emphasizes the demand for a scalable, affordable method of rotor winding monitoring and generator output maximization.
 
-condi=ons.
-These flaws result in an increase in excita=on current, mechanical vibra=ons, rotor damage,
-and magne=c field imbalance, all of which can result in significant opera=onal interrup=ons
-such as generator shut-downs, produc=on losses, and the requirement for immediate
-maintenance. Commercial monitoring systems currently available are frequently pricey and
-primarily intended for high-power genera=ng units, making them imprac=cal for smaller
-generators that are frequently used across a variety of industrial sectors.
-[The report emphasizes the demand for a scalable, affordable method of rotor winding
-monitoring and generator output maximiza=on.
-We can create a predic=ve maintenance system to iden=fy and stop poten=al generator
-failures in real =me by u=lizing ar=ficial intelligence (AI) techniques and data analy=cs.
-In the report sugges=ons include the necessity of clean, high-quality data for machine learning
-model training and applica=on. The report also describes the Machine Learning (ML) project
-lifecycle, which includes using Docker for deployment, Flask to build a REST API, and AWS to
-deploy the model.
-Then, a mechanism for data collec=on will be set up to compile crucial opera=onal data, which
-will then be cleaned up and normalized for the machine learning model. The model will then
-be deployed into a environment aSer being trained and validated with historical data. It will
-take in real-=me data from the sensors, process it, and produce forecasts for upcoming
-equipment breakdowns.
-The report ends by highligh=ng the successful use of a combina=on of supervised and
-unsupervised machine learning models for the dataset TG-A-Ejemplo1 using strategy 04:
-Isola=on Forest and Long Short-Term Memory (LSTM).
-This tac=c aims to foresee the next maintenance the machine will require in order to avoid
-unplanned shutdowns and cut costs.
-In conclusion, we emphasize the importance of these aspects in a machine learning project
-and show that the success of such a predic=ve maintenance system heavily depends on the
-quality and clarity of the input data, clear feature defini=ons, and rigorous data preprocessing.
+We can create a predictive maintenance system to identify and stop potential generator failures in real time by utilizing artificial intelligence (AI) techniques and data analytics. The report suggests the necessity of clean, high-quality data for machine learning model training and application. The report also describes the Machine Learning (ML) project lifecycle, which includes using Docker for deployment, Flask to build a REST API, and AWS to deploy the model.
+
+Then, a mechanism for data collection will be set up to compile crucial operational data, which will then be cleaned up and normalized for the machine learning model. The model will then be deployed into an environment after being trained and validated with historical data. It will take in real-time data from the sensors, process it, and produce forecasts for upcoming equipment breakdowns.
+
+The report ends by highlighting the successful use of a combination of supervised and unsupervised machine learning models for the dataset TG-A-Ejemplo1 using strategy 04: Isolation Forest and Long Short-Term Memory (LSTM). This tactic aims to foresee the next maintenance the machine will require in order to avoid unplanned shutdowns and cut costs.
+
+In conclusion, we emphasize the importance of these aspects in a machine learning project and show that the success of such a predictive maintenance system heavily depends on the quality and clarity of the input data, clear feature definitions, and rigorous data preprocessing."
